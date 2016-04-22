@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="send_email">Send Email</string>
+    <string name="launch_website">Launch Website</string>
+    <string name="open_play_store">Open Google Play Store</string>
+    <string name="compose_sms">Compose SMS</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="sharing_content">Sharing Content</string>
+
+
+</resources>
