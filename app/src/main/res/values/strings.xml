@@ -7,8 +7,8 @@
     <string name="open_play_store">Open Google Play Store</string>
     <string name="compose_sms">Compose SMS</string>
     <string name="google_maps">Google Maps</string>
-    <string name="capture_photo">Capture Photo</string>
-    <string name="sharing_content">Sharing Content</string>
+    <string name="capture_photo">Capture Photo and Share</string>
+    <string name="sharing_content">Sharing Text</string>
 
 
 </resources>
